@@ -97,7 +97,6 @@
           uk-slidenav-next
           uk-slider-item="next"
         ></a>
-        <ul class="uk-slider-nav uk-dotnav uk-flex-center uk-margin"></ul>
       </div>
     </div>
     <hr class="uk-divider-icon" />
