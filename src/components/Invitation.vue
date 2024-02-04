@@ -3,7 +3,7 @@
     <div>
       <div class="uk-text-center">
         <h1 class="logo">wedding invitation</h1>
-        <img src="/img/gallery/main.jpg" />
+        <img src="/img/gallery/main.png" />
       </div>
       <hr class="uk-divider-icon" />
       <div class="uk-text-center">
