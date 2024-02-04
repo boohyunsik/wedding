@@ -7,20 +7,22 @@
       <h3>오시는 길</h3>
       <div class="uk-accordion-content">
         <p>
-          <span class="header-text">서울대학교 이라운지</span><br />
+          <span class="header-text">빌라드지디 청담</span><br />
           <span class="content-text"
-            >서울 관악구 관악로 1 서울대학교 관악캠퍼스 310동</span
+            >서울시 강남구 학동로 519</span
           >
         </p>
         <p>
-          <span class="content-text"><span class="uk-label uk-label-success">2호선</span>
-          서울대입구역 3번출구 → 5511, 5513번 버스 → 서울대학교내 제2공학관(종점) 하차</span><br/>
-          <span class="content-text"><span class="uk-label uk-label-success">2호선</span>
-          낙성대역 4번 출구 → GS주유소끼고 좌회전 → 제과점 앞에서 관악02번 버스 → 서울대학교내 제 2공학관(종점) 하차</span>
+          <span class="content-text"><span class="uk-label uk-label-success">7호선</span>
+          청담역 12번 출구 바로 앞 위치</span><br/>
+          <span class="content-text"><span class="uk-label uk-label-success">버스</span>
+          청담역, 경기고교(진흥아파트 방면) 정류장 하차<br /> (버스번호 301, 401, 2415, 3414, 3426, 4419번)</span><br/>
+          <span class="content-text"><span class="uk-label uk-label-success">자가용</span>
+          서울특별시 강남구 학동로 519<br />(서울특별시 강남구 펑담동 73-4번지)</span>
         </p>
         <div>
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3167.5181054418454!2d126.94835137581916!3d37.448487330888625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357c9ff8b1cc7f7d%3A0x76ce756427c67027!2z7J2065287Jq07KeAIOybqOuUqe2ZgCDshJzsmrjrjIDsoJA!5e0!3m2!1sko!2skr!4v1686755115485!5m2!1sko!2skr"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3164.481259735884!2d127.05286187697763!3d37.52015117205076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca5419460f02b%3A0xc83d0b0bd4ba3c31!2sVILLA%20DE%20GD%20CHUNGDAM!5e0!3m2!1sen!2skr!4v1707057944137!5m2!1sen!2skr"
             width="100%"
             height="300"
             style="border: 0"

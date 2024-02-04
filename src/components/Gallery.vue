@@ -47,6 +47,42 @@
             <img src="/img/gallery/9.jpg" />
             <div class="uk-position-center uk-panel"></div>
           </li>
+          <li>
+            <img src="/img/gallery/11.jpg" />
+            <div class="uk-position-center uk-panel"></div>
+          </li>
+          <li>
+            <img src="/img/gallery/12.jpg" />
+            <div class="uk-position-center uk-panel"></div>
+          </li>
+          <li>
+            <img src="/img/gallery/14.jpg" />
+            <div class="uk-position-center uk-panel"></div>
+          </li>
+          <li>
+            <img src="/img/gallery/15.jpg" />
+            <div class="uk-position-center uk-panel"></div>
+          </li>
+          <li>
+            <img src="/img/gallery/16.jpg" />
+            <div class="uk-position-center uk-panel"></div>
+          </li>
+          <li>
+            <img src="/img/gallery/17.jpg" />
+            <div class="uk-position-center uk-panel"></div>
+          </li>
+          <li>
+            <img src="/img/gallery/18.jpg" />
+            <div class="uk-position-center uk-panel"></div>
+          </li>
+          <li>
+            <img src="/img/gallery/19.jpg" />
+            <div class="uk-position-center uk-panel"></div>
+          </li>
+          <li>
+            <img src="/img/gallery/20.jpg" />
+            <div class="uk-position-center uk-panel"></div>
+          </li>
         </ul>
 
         <a

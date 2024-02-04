@@ -17,11 +17,7 @@
               <div class="uk-accordion-content">
                 <dl class="uk-description-list uk-description-list-divider">
                   <dt>신랑</dt>
-                  <dd>1002-854-632895<br />우리은행 박상현</dd>
-                  <dt>신랑아버지</dt>
-                  <dd>069-07-028625<br />대구은행 박운석</dd>
-                  <dt>신랑어머니</dt>
-                  <dd>704-12-125295<br />농협중앙회 이영화</dd>
+                  <dd>903041-52-071770<br />농협 부현식</dd>
                 </dl>
               </div>
             </li>
@@ -30,11 +26,7 @@
               <div class="uk-accordion-content">
                 <dl class="uk-description-list uk-description-list-divider">
                   <dt>신부</dt>
-                  <dd>110-535-223219<br />신한은행 구연재</dd>
-                  <dt>신부아버지</dt>
-                  <dd>707-20-033036<br />SC제일은행 구병문</dd>
-                  <dt>신부어머니</dt>
-                  <dd>125-20-284293<br />SC제일은행 김길순</dd>
+                  <dd>636102-01-278935<br />국민은행 채유빈</dd>
                 </dl>
               </div>
             </li>

@@ -3,17 +3,17 @@
     <div>
       <div class="uk-text-center">
         <h1 class="logo">wedding invitation</h1>
-        <img src="/img/main.png" />
+        <img src="/img/gallery/main.jpg" />
       </div>
       <hr class="uk-divider-icon" />
       <div class="uk-text-center">
         <h3>
-          박상현·구연재<br />
+          부현식·채유빈<br />
           결혼합니다
         </h3>
         <h4>
-          2023년 10월 29일, 일요일 낮 2시<br />
-          서울대학교 이라운지
+          2024년 4월 7일, 일요일 오전 11시 30분<br />
+          빌라드지디 청담
         </h4>
         <hr class="uk-divider-icon" />
       </div>

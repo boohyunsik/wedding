@@ -13,7 +13,7 @@ import Footer from "./components/Footer.vue";
     <div class="wrapper">
       <div class="contents">
         <div
-          uk-scrollspy="target: > div, h1, img, hr, h3, p, iframe, h4, table, ul; cls: uk-animation-fade; delay: 500"
+          uk-scrollspy="target: > div, h1, img, hr, h3, p, iframe, h4, table, ul; cls: uk-animation-fade; delay: 100"
         >
           <Invitation />
           <Card />
@@ -23,9 +23,6 @@ import Footer from "./components/Footer.vue";
         <Map />
         <Account />
       </div>
-    </div>
-    <div class="uk-text-center">
-      <img class="pixel" src="/img/footer.png" />
     </div>
     <Footer />
   </div>
