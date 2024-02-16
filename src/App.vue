@@ -6,6 +6,7 @@ import Gallery from "./components/Gallery.vue";
 import Map from "./components/Map.vue";
 import Account from "./components/Account.vue";
 import Footer from "./components/Footer.vue";
+import Map2 from "./components/Map2.vue";
 </script>
 
 <template>
@@ -21,6 +22,7 @@ import Footer from "./components/Footer.vue";
         <Calendar />
         <Gallery />
         <Map />
+        <Map2 />
         <Account />
       </div>
     </div>
