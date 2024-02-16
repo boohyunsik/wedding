@@ -3,7 +3,7 @@
     <div>
       <div class="uk-text-center">
         <h1 class="logo">wedding invitation</h1>
-        <img src="/img/gallery/main.jpg" />
+        <img src="/img/gallery/main.png" />
       </div>
       <hr class="uk-divider-icon" />
       <div class="uk-text-center">
@@ -12,8 +12,8 @@
           결혼합니다
         </h3>
         <h4>
-          2024년 4월 7일, 일요일 오전 11시 30분<br />
-          빌라드지디 청담
+          2024년 3월 23일, 토요일 오전 10시<br />
+          토평동 다목적회관
         </h4>
         <hr class="uk-divider-icon" />
       </div>

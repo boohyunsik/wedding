@@ -83,6 +83,14 @@
             <img src="/img/gallery/20.jpg" />
             <div class="uk-position-center uk-panel"></div>
           </li>
+          <li>
+            <img src="/img/gallery/21.jpg" />
+            <div class="uk-position-center uk-panel"></div>
+          </li>
+          <li>
+            <img src="/img/gallery/22.jpg" />
+            <div class="uk-position-center uk-panel"></div>
+          </li>
         </ul>
 
         <a
@@ -97,7 +105,6 @@
           uk-slidenav-next
           uk-slider-item="next"
         ></a>
-        <ul class="uk-slider-nav uk-dotnav uk-flex-center uk-margin"></ul>
       </div>
     </div>
     <hr class="uk-divider-icon" />
