@@ -18,7 +18,7 @@
           <span class="content-text"><span class="uk-label uk-label-success">버스</span>
           청담역, 경기고교(진흥아파트 방면) 정류장 하차<br /> (버스번호 301, 401, 2415, 3414, 3426, 4419번)</span><br/>
           <span class="content-text"><span class="uk-label uk-label-success">자가용</span>
-          서울특별시 강남구 학동로 519<br />(서울특별시 강남구 펑담동 73-4번지)</span>
+          서울특별시 강남구 학동로 519<br />(서울특별시 강남구 청담동 73-4번지)</span>
         </p>
         <div>
           <iframe
