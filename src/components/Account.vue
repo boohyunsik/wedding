@@ -18,6 +18,10 @@
                 <dl class="uk-description-list uk-description-list-divider">
                   <dt>신랑</dt>
                   <dd>903041-52-071770<br />농협 부현식</dd>
+                  <dt>신랑 아버지</dt>
+                  <dd>327-12-001534<br />농협 부윤환</dd>
+                  <dt>신랑 어머니</dt>
+                  <dd>903041-52-062616<br />농협 강춘심</dd>
                 </dl>
               </div>
             </li>
@@ -27,6 +31,10 @@
                 <dl class="uk-description-list uk-description-list-divider">
                   <dt>신부</dt>
                   <dd>636102-01-278935<br />국민은행 채유빈</dd>
+                  <dt>신부 아버지</dt>
+                  <dd>519702-01-091925<br />국민은행 채종영</dd>
+                  <dt>신부 어머니</dt>
+                  <dd>110-340-241060<br />신한은행 김수진</dd>
                 </dl>
               </div>
             </li>
